@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SandyaRajapaksha
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...HTML,PHP,C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sandyarajapaksha905gmail.com
